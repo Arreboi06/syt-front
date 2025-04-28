@@ -8,7 +8,7 @@ export default defineConfig({
   resolve: {
     alias: {
       "@": path.resolve(__dirname, 'src')
-    }
+    },
   },
   //配置代理跨域
   server: {
