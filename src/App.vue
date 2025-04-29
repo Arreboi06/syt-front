@@ -23,7 +23,7 @@
     margin-top: 70px;
     width: 1200px;
     min-height: 700px;
-    background-color: pink;
+    // background-color: pink;
   }
 }
 </style>
